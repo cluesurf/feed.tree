@@ -12,7 +12,7 @@
 
 <h3 align='center'>snow.link</h3>
 <p align='center'>
-  The Base Link Querying Framework
+  The BaseLink Querying Framework
 </p>
 
 <br/>
