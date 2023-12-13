@@ -12,7 +12,7 @@
 
 <h3 align='center'>snow.note</h3>
 <p align='center'>
-  The BaseLink Querying Framework
+  The BaseNote Querying Framework
 </p>
 
 <br/>
