@@ -6,13 +6,9 @@
 <br/>
 <br/>
 
+<h3 align='center'>mesh.tree</h3>
 <p align='center'>
-  <img src='https://github.com/termsurf/snow.tree/blob/make/view/snow.svg?raw=true' height='256'>
-</p>
-
-<h3 align='center'>snow.tree</h3>
-<p align='center'>
-  The BaseTree Querying Framework
+  The NoteTree ORM
 </p>
 
 <br/>
@@ -21,7 +17,7 @@
 
 ## License
 
-Copyright 2023 <a href='https://term.surf'>TermSurf</a>
+Copyright 2023-2024 <a href='https://term.surf'>TermSurf</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
