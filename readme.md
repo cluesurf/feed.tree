@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-<h3 align='center'>mesh.tree</h3>
+<h3 align='center'>feed.tree</h3>
 <p align='center'>
-  The NoteTree ORM
+  The NoteTree Data Management Library
 </p>
 
 <br/>
